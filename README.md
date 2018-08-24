@@ -1,2 +1,2 @@
-# Student-Resources
-Please go to the [wiki for all student resources](../../wiki)
+# Learning to Dev Resources
+Please go to the [wiki for all resources](../../wiki)
